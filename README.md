@@ -9,6 +9,8 @@ ____________________________________________________________________________
        _\/\\\_________\//\\\\/____________________\//\\\\\\\\__\/\\\____\//\\\\\___ 
         _\///___________\////_______________________\////////___\///______\/////____
 ``` 
+
+## description
 ```
  py-git 
  
@@ -17,7 +19,8 @@ ____________________________________________________________________________
  or you want'to save data without installing git , just installig
  a python script for clonning the repo you want .
 ```
- 
+
+## help
 ```
  usage:
  python3 py-git.py <repo_link>
@@ -31,7 +34,10 @@ ____________________________________________________________________________
 
 ```
 
-___author: Ahmet Yigit AYDENIZ | Aydeniztr___
+## installation
+
+```
+```
 
 Github: https://github.com/Aydeniztr|
 
