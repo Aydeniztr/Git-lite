@@ -22,12 +22,12 @@ ___author: Ahmet Yigit AYDENIZ | Aydeniztr___
  __argumants:__
  
  usage:
-`python3 py-git.py <repo_link>`
+```python3 py-git.py <repo_link>```
  
  example:
-`python3 py-git.py https://github.com/Aydeniztr/Git-lite`
+```python3 py-git.py https://github.com/Aydeniztr/Git-lite```
  
  
  for the help page:
- `python3 py-git.py --help`
+ ```python3 py-git.py --help```
 
