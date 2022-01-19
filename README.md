@@ -9,8 +9,6 @@ ____________________________________________________________________________
        _\/\\\_________\//\\\\/____________________\//\\\\\\\\__\/\\\____\//\\\\\___ 
         _\///___________\////_______________________\////////___\///______\/////____
 ``` 
-___author: Ahmet Yigit AYDENIZ | Aydeniztr___
- 
 ```
  py-git 
  
@@ -32,6 +30,8 @@ ___author: Ahmet Yigit AYDENIZ | Aydeniztr___
  python3 py-git.py --help
 
 ```
+
+___author: Ahmet Yigit AYDENIZ | Aydeniztr___
 
 Github: https://github.com/Aydeniztr|
 
