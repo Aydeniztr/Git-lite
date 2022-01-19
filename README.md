@@ -20,8 +20,8 @@ ___author: Ahmet Yigit AYDENIZ | Aydeniztr___
  a python script for clonning the repo you want .
 ```
  
- __argumants:__
-
+\ help \
+```
  usage:
  python3 py-git.py <repo_link>
  
@@ -32,7 +32,7 @@ ___author: Ahmet Yigit AYDENIZ | Aydeniztr___
  for the help page:
  python3 py-git.py --help
 
-
+```
 
 Github: https://github.com/Aydeniztr|
 
