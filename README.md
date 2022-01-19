@@ -21,13 +21,13 @@ ___author: Ahmet Yigit AYDENIZ | Aydeniztr___
  
  __argumants:__
  
- >usage:
+ usage:
 `python3 py-git.py <repo_link>`
  
- >example:
+ example:
 `python3 py-git.py https://github.com/Aydeniztr/Git-lite`
  
  
- >for the help page:
+ for the help page:
  `python3 py-git.py --help`
 
