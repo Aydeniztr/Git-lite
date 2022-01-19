@@ -23,10 +23,10 @@ ___author: Ahmet Yigit AYDENIZ | Aydeniztr___
  __argumants:__
 ```
  usage:
-python3 py-git.py <repo_link>
+ python3 py-git.py <repo_link>
  
  example:
-python3 py-git.py https://github.com/Aydeniztr/Git-lite
+ python3 py-git.py https://github.com/Aydeniztr/Git-lite
  
  
  for the help page:
@@ -34,8 +34,8 @@ python3 py-git.py https://github.com/Aydeniztr/Git-lite
 ```
 
 
-####Github: https://github.com/Aydeniztr|
+Github: https://github.com/Aydeniztr|
 
-####Website: https://www.aydeniz.tk       
+Website: https://www.aydeniz.tk       
 
-####Chat: https://www.aydeniz.tk/chat.html
+Chat: https://www.aydeniz.tk/chat.html
