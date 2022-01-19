@@ -39,7 +39,7 @@ ____________________________________________________________________________
 ```
 you can install it from my website :
 
-wget https://www.aydeniz.tk/Sources/Projects/Git-lite-main.zip
+wget https://www.aydeniz.tk/Projects/Git-lite-main.zip
 
 
 or you can install it from github :
