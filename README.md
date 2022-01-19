@@ -45,6 +45,10 @@ wget https://www.aydeniz.tk/Projects/Git-lite-main.zip
 or you can install it from github :
 
 wget https://github.com/Aydeniztr/Git-lite/archive/refs/heads/main.zip
+
+after that just unzip the file then get in the directory
+and run the python script
+
 ```
 
 Github: https://github.com/Aydeniztr
