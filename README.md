@@ -34,8 +34,8 @@ python3 py-git.py https://github.com/Aydeniztr/Git-lite
 ```
 
 
-|Github: https://github.com/Aydeniztr  
+####Github: https://github.com/Aydeniztr|
 
-|Website: https://www.aydeniz.tk       
+####Website: https://www.aydeniz.tk       
 
-|Chat: https://www.aydeniz.tk/chat.html
+####Chat: https://www.aydeniz.tk/chat.html
