@@ -21,7 +21,7 @@ ___author: Ahmet Yigit AYDENIZ | Aydeniztr___
 ```
  
  __argumants:__
-```
+
  usage:
  python3 py-git.py <repo_link>
  
@@ -31,7 +31,7 @@ ___author: Ahmet Yigit AYDENIZ | Aydeniztr___
  
  for the help page:
  python3 py-git.py --help
-```
+
 
 
 Github: https://github.com/Aydeniztr|
