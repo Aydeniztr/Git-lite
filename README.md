@@ -14,11 +14,10 @@ ___author: Ahmet Yigit AYDENIZ | Aydeniztr___
 ```
  py-git 
  
- is a program for who uses a very slow computer to clone a repo 
- using git-cli like ish users on ios and IPados 
- or you have a poor connection or you want to save data 
- via without surfing on github instead 
- just installing just what you want from command line
+ is cli-app  that clones the repo that you gived the link to 
+ the program using argumants . If you have a very slow machine
+ or you want'to save data without installing git , just installig
+ a script for clonning the repo you want .
 ```
  
  __argumants:__
