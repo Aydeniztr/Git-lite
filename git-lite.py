@@ -41,7 +41,7 @@ python3 py-git.py --help
 '''
 if len(sys.argv) <= 1:
 	
-	print(about)
+	print(about + help)
 	exit()
 
 #elif sys.argv[1] != '--hel
