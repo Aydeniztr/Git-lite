@@ -11,7 +11,7 @@ ____________________________________________________________________________
 ``` 
 ___author: Ahmet Yigit AYDENIZ | Aydeniztr___
  
- py-git is a program for who uses a very slow computer to install a repo using git-cli 
+ py-git is a program for who uses a very slow computer to clone a repo using git-cli 
  like ish users on ios and IPados or you have a poor connection or you want to save data
  via without surfing on github instead just installing just what you want from command line
 
@@ -30,8 +30,8 @@ python3 py-git.py https://github.com/Aydeniztr/Git-lite
 ```
 
 
-Github: https://github.com/Aydeniztr  
+|Github: https://github.com/Aydeniztr  
 
-Website: https://www.aydeniz.tk       
+|Website: https://www.aydeniz.tk       
 
-Chat: https://www.aydeniz.tk/chat.html
+|Chat: https://www.aydeniz.tk/chat.html
