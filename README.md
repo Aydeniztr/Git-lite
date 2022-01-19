@@ -37,7 +37,7 @@ and run the python script
 
 ```
 
-##
+## usage
 ```
  usage:
  python3 py-git.py <repo_link>
