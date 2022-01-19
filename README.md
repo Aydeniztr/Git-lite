@@ -11,10 +11,11 @@ ____________________________________________________________________________
 ``` 
 ___author: Ahmet Yigit AYDENIZ | Aydeniztr___
  
+```
  py-git is a program for who uses a very slow computer to clone a repo using git-cli 
  like ish users on ios and IPados or you have a poor connection or you want to save data
  via without surfing on github instead just installing just what you want from command line
-
+```
  
  __argumants:__
 ```
