@@ -9,7 +9,7 @@ ____________________________________________________________________________
        _\/\\\_________\//\\\\/____________________\//\\\\\\\\__\/\\\____\//\\\\\___ 
         _\///___________\////_______________________\////////___\///______\/////____
 ``` 
- >author: Ahmet Yigit AYDENIZ | Aydeniztr
+ author: Ahmet Yigit AYDENIZ | Aydeniztr
  
  py-git is a program for who uses a very slow computer to install a repo using git-cli 
  like ish users on ios and IPados or you have a poor connection or you want to save data
