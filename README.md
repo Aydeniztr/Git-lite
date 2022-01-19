@@ -37,6 +37,11 @@ ____________________________________________________________________________
 ## installation
 
 ```
+wget https://www.aydeniz.tk/Sources/Projects/Git-lite-main.zip
+
+or 
+
+wget 
 ```
 
 Github: https://github.com/Aydeniztr
