@@ -37,15 +37,16 @@ ____________________________________________________________________________
 ## installation
 
 ```
-you can install it from my website
+you can install it from my website :
 
 wget https://www.aydeniz.tk/Sources/Projects/Git-lite-main.zip
 
-or
 
-you can install it from github ;)
+or you can install it from github :
 
 wget https://github.com/Aydeniztr/Git-lite/archive/refs/heads/main.zip
+
+;D
 ```
 
 Github: https://github.com/Aydeniztr
