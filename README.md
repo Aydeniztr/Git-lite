@@ -39,7 +39,7 @@ ____________________________________________________________________________
 ```
 ```
 
-Github: https://github.com/Aydeniztr|
+Github: https://github.com/Aydeniztr
 
 Website: https://www.aydeniz.tk       
 
