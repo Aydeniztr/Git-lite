@@ -29,5 +29,5 @@ ____________________________________________________________________________
  
  
  for the help page:
- >>python3 py-git.py --help
+ >python3 py-git.py --help
 
