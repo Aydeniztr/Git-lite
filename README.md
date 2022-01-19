@@ -20,20 +20,6 @@ ____________________________________________________________________________
  a python script for clonning the repo you want .
 ```
 
-##
-```
- usage:
- python3 py-git.py <repo_link>
- 
- example:
- python3 py-git.py https://github.com/Aydeniztr/Git-lite
- 
- 
- for the help page:
- python3 py-git.py --help
-
-```
-
 ## installation
 
 ```
@@ -48,6 +34,20 @@ wget https://github.com/Aydeniztr/Git-lite/archive/refs/heads/main.zip
 
 after that just unzip the file then get in the directory
 and run the python script
+
+```
+
+##
+```
+ usage:
+ python3 py-git.py <repo_link>
+ 
+ example:
+ python3 py-git.py https://github.com/Aydeniztr/Git-lite
+ 
+ 
+ for the help page:
+ python3 py-git.py --help
 
 ```
 
