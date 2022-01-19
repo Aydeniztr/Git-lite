@@ -14,10 +14,10 @@ ___author: Ahmet Yigit AYDENIZ | Aydeniztr___
 ```
  py-git 
  
- is cli-app  that clones the repo that you gived the link to 
- the program using argumants . If you have a very slow machine
+ is a cli-app that clones the repo that you gived the link to 
+ the script using argumants . If you have a very slow machine
  or you want'to save data without installing git , just installig
- a script for clonning the repo you want .
+ a python script for clonning the repo you want .
 ```
  
  __argumants:__
