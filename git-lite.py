@@ -30,7 +30,7 @@ help = '''
 argumants
 
 usage:
-python3 py-git.py <link_to_the_repo>
+python3 py-git.py <repo_link>
 
 for the help page:
 python3 py-git.py --help
@@ -41,7 +41,7 @@ if len(sys.argv) <= 1:
 	print(about)
 	exit()
 
-#elif sys.argv[1] != '--help':
+#elif sys.argv[1] != '--hel
 else:
 
 #________________________
