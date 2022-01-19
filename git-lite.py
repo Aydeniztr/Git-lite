@@ -30,7 +30,7 @@ help = '''
 argumants
 
 usage:
-python3 py-git.py <user_name> <repo_name>
+python3 py-git.py <link_to_the_repo>
 
 for the help page:
 python3 py-git.py --help
