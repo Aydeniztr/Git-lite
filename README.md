@@ -20,7 +20,6 @@ ___author: Ahmet Yigit AYDENIZ | Aydeniztr___
  a python script for clonning the repo you want .
 ```
  
-\ help \
 ```
  usage:
  python3 py-git.py <repo_link>
