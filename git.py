@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-import os
+from os import remove,
 import sys 
 import wget
 from zipfile import ZipFile
@@ -72,4 +72,4 @@ else:
 		zip.extractall()
 		print('Done!')
 		
-		remove(cwd + 'main.zip')
+		os.remove(cwd + 'main.zip')
