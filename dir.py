@@ -1,5 +1,5 @@
-from os
-from sys
+import os
+import sys
 
 os.mkdir('zip-repos') 
 
