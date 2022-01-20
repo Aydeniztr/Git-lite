@@ -61,11 +61,13 @@ else:
 
 	url = sys.argv[1]
 	
+	cwd = (os.getcwd()
+	
 	print('download started use ctrl-c to stop it ...')
 	
 	x = url + '/archive/refs/heads/main.zip'
 	
-	filename = wget.download(x,'~/')
+	filename = wget.download(x,cwd + '/zip-repos')
 	
 	file = (filename)
 
