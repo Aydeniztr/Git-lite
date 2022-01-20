@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+import os
 import sys 
 import wget
 from zipfile import ZipFile
