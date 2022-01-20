@@ -1,3 +1,3 @@
 import os 
 
-os.mkdir(zip-repos) 
+os.mkdir('zip-repos') 
