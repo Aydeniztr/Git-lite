@@ -3,6 +3,7 @@
 import os
 import sys 
 import wget
+import shutil
 from zipfile import ZipFile
 
 about = '''
@@ -55,11 +56,13 @@ else:
 	
 	cwd = os.getcwd()
 	
+	os.mkdir(cwd + 'main')
+	
 	print('download started use ctrl-c to stop it ...')
 	
 	x = url + '/archive/refs/heads/main.zip'
 	 
-	filename = wget.download(x,cwd)
+	filename = wget.download(x,cwd + 'main')
 	
 	file = (filename)
 
@@ -72,4 +75,4 @@ else:
 		zip.extractall()
 		print('Done!')
 		
-		os.remove(cwd + 'main.zip')
+		shutil.rmtree(cwd + 'main')
