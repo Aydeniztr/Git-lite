@@ -65,7 +65,7 @@ else:
 	
 	x = url + '/archive/refs/heads/main.zip'
 	
-	filename = wget.download(x,'/Git-lite/zip-repos')
+	filename = wget.download(x,'/Git-lite/')
 	
 	file = (filename)
 
