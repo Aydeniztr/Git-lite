@@ -51,8 +51,10 @@ and run the python script
 
 ```
 
-  Github: https://github.com/Aydeniztr  
-  Website: https://www.aydeniz.tk        
+  Github: https://github.com/Aydeniztr
+  
+  Website: https://www.aydeniz.tk 
+  
   Chat: https://www.aydeniz.tk/chat.html 
 
  
