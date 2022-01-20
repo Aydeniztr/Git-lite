@@ -10,7 +10,7 @@ ____________________________________________________________________________
         _\///___________\////_______________________\////////___\///______\/////____
 ``` 
 
-	/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fwww.aydeniz.tk
+/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fwww.aydeniz.tk
 
 ## description
 ```
