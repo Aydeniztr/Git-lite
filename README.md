@@ -23,31 +23,30 @@ ____________________________________________________________________________
 ## installation
 
 ```
-you can install it from my website :
+to install :
 
-wget https://www.aydeniz.tk/Projects/Git-lite-main.zip
+>> wget https://github.com/Aydeniztr/Py-git-clone/archive/refs/heads/main.zip
 
+>> unzip Py-git-clone-main.zip
 
-or you can install it from github :
+>> cd Py-git-clone-main.zip
 
-wget https://github.com/Aydeniztr/Py-git-clone/archive/refs/heads/main.zip
+>> bash setup.sh
 
-after that just unzip the file then get in the directory
-and run the python script
+and run :
+
+>> python3 git.py <repo_link>
 
 ```
 
 ## usage
+
 ```
  usage:
  python3 py-git.py <repo_link>
  
  example:
  python3 py-git.py https://github.com/Aydeniztr/Git-lite
- 
- 
- for the help page:
- python3 py-git.py --help
 
 ```
 
