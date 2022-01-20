@@ -61,7 +61,7 @@ else:
 
 	url = sys.argv[1]
 	
-	cwd = (os.getcwd()
+	cwd = os.getcwd()
 	
 	print('download started use ctrl-c to stop it ...')
 	
