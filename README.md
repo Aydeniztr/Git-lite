@@ -50,10 +50,12 @@ and run the python script
  python3 py-git.py --help
 
 ```
+| --------------------------------------- |
+|  Github: https://github.com/Aydeniztr   |
+|  Website: https://www.aydeniz.tk        |
+|  Chat: https://www.aydeniz.tk/chat.html |
 
-Github: https://github.com/Aydeniztr
+ 
 
-Website: https://www.aydeniz.tk       
 
-Chat: https://www.aydeniz.tk/chat.html
 
