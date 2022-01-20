@@ -12,7 +12,7 @@ ____________________________________________________________________________
 
 ## description
 ```
- py-git 
+ py-git-clone
  
  is a cli-app that clones the repo that you gived the link to 
  the script using argumants . If you have a very slow machine
@@ -30,7 +30,7 @@ wget https://www.aydeniz.tk/Projects/Git-lite-main.zip
 
 or you can install it from github :
 
-wget https://github.com/Aydeniztr/Git-lite/archive/refs/heads/main.zip
+wget https://github.com/Aydeniztr/Py-git-clone/archive/refs/heads/main.zip
 
 after that just unzip the file then get in the directory
 and run the python script
