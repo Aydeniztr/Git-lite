@@ -1,4 +1,4 @@
-from os import remove
+import os
 from sys import argv
 
 os.mkdir('zip-repos') 
