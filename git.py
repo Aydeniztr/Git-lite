@@ -58,8 +58,8 @@ else:
 	print('download started use ctrl-c to stop it ...')
 	
 	x = url + '/archive/refs/heads/main.zip'
-	
-	filename = wget.download(x,cwd + '/zip-repos/')
+	 
+	filename = wget.download(x,cwd)
 	
 	file = (filename)
 
@@ -71,3 +71,5 @@ else:
 		print('extraction...')
 		zip.extractall()
 		print('Done!')
+		
+		remove(cwd + 'main.zip')
