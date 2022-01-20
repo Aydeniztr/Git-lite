@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-from os import remove,
+import os
 import sys 
 import wget
 from zipfile import ZipFile
