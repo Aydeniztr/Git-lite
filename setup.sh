@@ -1,4 +1,2 @@
-chmod +x git.py
-cp git.py ~/bin/git
-git
+pip install wget
 echo '!!! setup done !!!'
