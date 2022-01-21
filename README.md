@@ -33,9 +33,9 @@ to install :
 
 >> bash setup.sh
 
-and run :
+and type :
 
->> python3 git.py <repo_link>
+>> git <repo_link>
 
 ```
 
@@ -43,10 +43,10 @@ and run :
 
 ```
  usage:
- python3 py-git.py <repo_link>
+ py-git <repo_link>
  
  example:
- python3 py-git.py https://github.com/Aydeniztr/Git-lite
+ py-git https://github.com/Aydeniztr/Git-lite
 
 ```
 
