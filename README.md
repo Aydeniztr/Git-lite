@@ -43,10 +43,10 @@ and type :
 
 ```
  usage:
- ./py-git <repo_link>
+ >> ./py-git <repo_link>
  
  example:
- ./py-git https://github.com/Aydeniztr/Git-lite
+ >> ./py-git https://github.com/Aydeniztr/Git-lite
 
 ```
 
