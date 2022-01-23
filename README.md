@@ -29,13 +29,13 @@ to install :
 
 >> unzip Py-git-clone-main.zip
 
->> cd Py-git-clone-main.zip
+>> cd Py-git-clone-main
 
 >> bash setup.sh
 
 and type :
 
->> git <repo_link>
+>> ./git.py <repo_link>
 
 ```
 
@@ -43,10 +43,10 @@ and type :
 
 ```
  usage:
- py-git <repo_link>
+ ./py-git <repo_link>
  
  example:
- py-git https://github.com/Aydeniztr/Git-lite
+ ./py-git https://github.com/Aydeniztr/Git-lite
 
 ```
 
