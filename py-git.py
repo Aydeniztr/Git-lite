@@ -62,7 +62,7 @@ else:
 	
 	x = url + '/archive/refs/heads/main.zip'
 	 
-	filename = wget.download(x,cwd + 'main')
+	filename = wget.download(x,cwd + '/main')
 	
 	file = (filename)
 
