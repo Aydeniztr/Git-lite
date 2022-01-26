@@ -75,4 +75,4 @@ else:
 		zip.extractall()
 		print('Done!')
 		
-		shutil.rmtree(cwd + 'main')
+		shutil.rmtree(cwd + '/main')
