@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 
-import os
-import sys 
-import wget
-import shutil
+from os import getcwd,mkdir
+from sys import argv
+from wget import download
+from shutil import rmtree
 from zipfile import ZipFile
 
 about = '''
@@ -34,7 +34,7 @@ for the help page:
 python3 py-git.py --help
 
 '''
-if len(sys.argv) <= 1:
+if len(argv) <= 1:
 	
 	print(about + help)
 	exit()
@@ -52,17 +52,17 @@ else:
 #filename = wget.download(repo,'%s.zip' % repo_name)
 #________________________
 
-	url = sys.argv[1]
+	url = argv[1]
 	
-	cwd = os.getcwd()
+	cwd = getcwd()
 	
-	os.mkdir(cwd + 'main')
+	mkdir(cwd + 'main')
 	
 	print('download started use ctrl-c to stop it ...')
 	
 	x = url + '/archive/refs/heads/main.zip'
 	 
-	filename = wget.download(x,cwd + '/main')
+	filename = download(x,cwd + '/main')
 	
 	file = (filename)
 
@@ -75,4 +75,4 @@ else:
 		zip.extractall()
 		print('Done!')
 		
-		shutil.rmtree(cwd + '/main')
+		rmtree(cwd + '/main')
