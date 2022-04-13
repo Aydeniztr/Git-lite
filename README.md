@@ -9,25 +9,6 @@
  a python script for clonning the repo you want .
 ```
 
-## installation
-
-```
-to install :
-
->> wget https://github.com/Aydeniztr/Py-git-clone/archive/refs/heads/main.zip
-
->> unzip Py-git-clone-main.zip
-
->> cd Py-git-clone-main
-
->> bash setup.sh
-
-and type :
-
->> ./git.py <repo_link>
-
-```
-
 ## usage
 
 ```
