@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-from os import getcwd,mkdir
+from os import getcwd,mkdir,rmdir
 from sys import argv
 from wget import download
 from shutil import rmtree
@@ -34,27 +34,11 @@ for the help page:
 python3 py-git.py --help
 
 '''
-if len(argv) <= 1:
+cwd = getcwd()
+
+def main(cwd):
 	
-	print(about + help)
-	exit()
-
-#elif sys.argv[1] != '--hel
-else:
-
-#________________________
-#user_name = sys.argv[1]
-
-#repo_name = sys.argv[2]
-
-#repo = str('https://github.com/%s/%s/archive/master.zip' % (user_name,repo_name))
-
-#filename = wget.download(repo,'%s.zip' % repo_name)
-#________________________
-
 	url = argv[1]
-	
-	cwd = getcwd()
 	
 	mkdir(cwd + 'main')
 	
@@ -76,3 +60,15 @@ else:
 		print('Done!')
 		
 		rmtree(cwd + '/main')
+	
+if len(argv) <= 1:
+	
+	print(about + help)
+	exit()
+	
+else:
+	try:
+		main()
+	except:
+		rmdir(cwd+'/main')
+
