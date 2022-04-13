@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-from os import getcwd,mkdir,rmdir
+from os import getcwd,mkdir
 from sys import argv
 from wget import download
 from shutil import rmtree
@@ -70,5 +70,5 @@ else:
 	try:
 		main()
 	except:
-		rmdir(cwd+'/main')
+		rmtree(cwd+'/main')
 
