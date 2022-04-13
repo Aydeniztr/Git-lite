@@ -2,7 +2,6 @@
 
 from os import getcwd,mkdir
 from sys import argv
-from wget import download
 from shutil import rmtree
 from zipfile import ZipFile
 
