@@ -504,4 +504,5 @@ else:
 		main(cwd)
 	except:
 		rmtree(cwd+'/main')
-
+		
+exit()
