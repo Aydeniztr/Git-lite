@@ -501,7 +501,7 @@ if len(sys.argv) <= 1:
 	
 else:
 	try:
-		main()
+		main(cwd)
 	except:
 		rmtree(cwd+'/main')
 
